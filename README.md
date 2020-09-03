@@ -28,7 +28,7 @@ import {
 
 Vue.use(ElButton)
 ```
-> 注意暂时不要在生产坏境使用
+> 注意暂时不要在生产坏境使用。
 
 ## export components
 目前已经导出可以使用的组件列表
